@@ -1,0 +1,10 @@
+.foot {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(255, 255, 255);
+    font-weight: 500;
+}
+.foot span{
+    font-weight: 600;
+    
+}

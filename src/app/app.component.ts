@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Blog-page';
+  // url:any;
+  // myImage:string = "/src/assets/images/img1.jpg";
 }

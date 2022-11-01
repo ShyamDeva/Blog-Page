@@ -1,0 +1,69 @@
+.blog{
+    background-color: rgb(100, 33, 68);
+    /* background-color: #ddd; */
+    padding:35px 50px 50px 20px;
+    border-radius: 40px;
+}
+
+.blog h4{
+    text-align: center;
+    color: #fff;
+    font-size: 27px;
+    font-family: 'Segoe UI';
+   
+}
+
+.blog p{
+   
+  align-items: center;
+    font-size: 19px;
+    word-spacing: 0.3cm;
+    color: #fff;
+    font-family:'Fasthand';
+    line-height: 1.1;
+
+}
+
+.achivements{
+    margin-top: 40px;
+    background-color:rgb(100, 33, 68);
+    /* background-color: #ddd; */
+    padding:35px 50px 50px 20px;
+    border-radius: 40px;
+}
+.achivements h4{
+    text-align: center;
+    color: #fff;
+    font-size: 27px;
+    font-family: 'Segoe UI';
+   
+}
+
+.achivements p{
+   
+  text-align: center;
+  align-items: center;
+    font-size: 19px;
+    word-spacing: .1cm;
+    color: #fff;
+    font-family:'Fasthand';
+    line-height: 1.1;
+
+}
+
+div.utubevideo {
+    text-align: center;
+  }
+  
+.utubevideo{
+    margin-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.video p{
+  font-size: 19px;
+  font-weight:600 ;
+}

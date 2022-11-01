@@ -1,0 +1,15 @@
+
+.navbar h2{
+    text-align: center;
+    padding: 20px 10px;
+    width: 100%;
+    background-color: rgb(100, 33, 68);
+    color:#fff;
+    display: block;
+    overflow: hidden;
+    /* margin-left: -20px;
+    margin-right: 20px; */
+    border-radius: 45px;
+    width: 100%;
+    font-family:'Fasthand', cursive;
+}
